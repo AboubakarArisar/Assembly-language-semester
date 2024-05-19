@@ -1,7 +1,7 @@
 .model small
 .stack 100h
 .data
-     var  db 'Enter number 1 : $'
+     var  db 'Enter number 1 : $' 
      var2 db 'Enter number 2 : $'
      var3 db 'The sum is : $'
      var4 db 'Do you want to continue?(y/n) : $'
