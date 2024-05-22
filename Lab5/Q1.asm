@@ -1,6 +1,6 @@
 .model small
 .stack 100h
-.data
+.data 
      msg  db "Enter a character : $"
      msg1 db "The entered character is A.$"
 
